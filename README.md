@@ -3,7 +3,7 @@
 
 This project focuses on predicting Alzheimer’s Disease stages and estimating brain age using MRI scan data and machine learning techniques. It aims to assist in early diagnosis and provide supportive tools for clinical decision-making.
 
-📌 Project Objectives
+ Project Objectives
 Alzheimer’s Disease Detection: Classify brain MRI images into categories such as:
 
 Alzheimer’s
@@ -14,7 +14,7 @@ Normal (Control)
 
 Brain Age Prediction: Predict the biological age of a person based on their brain MRI scans.
 
-🧬 Technologies Used
+ Technologies Used
 Programming Language: Python
 
 Libraries & Frameworks:
@@ -41,8 +41,8 @@ Jupyter Notebook / Google Colab
 
 Streamlit (for demo, if applicable)
 
-📁 Dataset
-Source: ADNI, Kaggle, or other public MRI datasets
+ Dataset
+Source: ADNI, Kaggle, and other public MRI datasets
 
 Format: NIfTI (.nii, .nii.gz) or .png (preprocessed)
 
@@ -56,7 +56,7 @@ Resizing to standard shape
 
 Data augmentation (rotation, flipping, etc.)
 
-🚀 How It Works
+ How It Works
 Data Loading & Preprocessing:
 
 Load MRI scans
